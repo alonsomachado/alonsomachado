@@ -4,7 +4,7 @@
 ## Hi 👋, 
 I'm Alonso Machado, I'm a Java developer 👨‍💻 who is passionate about Java technologies and its entire ecosystem, Android and Java Back-End and a little of Java Front-end. 
 
-- 🔭 I’m currently building my own projects on Java with Spring Boot & REST. 
+- 🔭 I’m currently working with React + Java with Spring Boot in @amachadoprimeit 
 - ⚡ Java, JavaScript, noSQL (Mongo / Redis), REACT, Kubernetes & Docker.
 - 💬 Ask me about: Tech, series, anime, eSports and a little bit about museums.
 - 🔭 Front-End : Working with REACT (With hooks), already worked with Angular 2+, JSF, Thymeleaf...
